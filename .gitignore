@@ -1,0 +1,6 @@
+fashion-mnist.p
+preprocess_test.p
+preprocess-train.p
+preporcess_validation.p
+image_classification.data-00000-of-00001
+*.p
